@@ -38,6 +38,7 @@ section {
 }
 
 .content h2 c {
+    font-size: 60%;
     color: white;
     -webkit-text-stroke: 3px white;
     animation: glow 2s infinite;
